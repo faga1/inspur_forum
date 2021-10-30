@@ -57,6 +57,7 @@ export default class login extends Component {
                         <Link to='/signUp' >sign up</Link>
                 </Card>
                 <div>hello</div>
+                <div>lzc</div>
             </div>
         )
     }
